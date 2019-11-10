@@ -1,0 +1,23 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "Chalk Homework",
+  "main": "Chalk.js",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarrettBoxberger/Chalk.git"
+  },
+  "author": "Garrett Boxberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarrettBoxberger/Chalk/issues"
+  },
+  "homepage": "https://github.com/GarrettBoxberger/Chalk#readme"
+}
